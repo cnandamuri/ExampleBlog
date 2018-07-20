@@ -38,6 +38,12 @@ namespace ExampleBlog.Controllers
             return View(returnedTaskTResult);
         }
 
+        //Echo number with async 
+        private async Task<int> Echo(int number)
+        {
+            await ApiCall();
+            return number;
+        }
 
 
     }

@@ -12,10 +12,10 @@ namespace ExampleBlog.Controllers
     [Route("api/Cities")]
     public class CitiesController : Controller
     {
-        private CityRepo cityRepo;
+        private MongoCityRepo cityRepo;
         public CitiesController()
         {
-            cityRepo = new CityRepo();
+            cityRepo = new MongoCityRepo();
         }
         public JsonResult GetCities()
         {

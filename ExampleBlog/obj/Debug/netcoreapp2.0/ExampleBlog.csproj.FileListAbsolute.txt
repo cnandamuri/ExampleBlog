@@ -14,9 +14,9 @@ C:\Git\ExampleBlog\ExampleBlog\bin\Debug\netcoreapp2.0\ExampleBlog.runtimeconfig
 C:\Git\ExampleBlog\ExampleBlog\bin\Debug\netcoreapp2.0\ExampleBlog.runtimeconfig.dev.json
 C:\Git\ExampleBlog\ExampleBlog\bin\Debug\netcoreapp2.0\ExampleBlog.dll
 C:\Git\ExampleBlog\ExampleBlog\bin\Debug\netcoreapp2.0\ExampleBlog.pdb
-C:\Git\ExampleBlog\ExampleBlog\obj\Debug\netcoreapp2.0\ExampleBlog.csprojAssemblyReference.cache
 C:\Git\ExampleBlog\ExampleBlog\obj\Debug\netcoreapp2.0\ExampleBlog.csproj.CoreCompileInputs.cache
 C:\Git\ExampleBlog\ExampleBlog\obj\Debug\netcoreapp2.0\ExampleBlog.AssemblyInfoInputs.cache
 C:\Git\ExampleBlog\ExampleBlog\obj\Debug\netcoreapp2.0\ExampleBlog.AssemblyInfo.cs
 C:\Git\ExampleBlog\ExampleBlog\obj\Debug\netcoreapp2.0\ExampleBlog.dll
 C:\Git\ExampleBlog\ExampleBlog\obj\Debug\netcoreapp2.0\ExampleBlog.pdb
+C:\Git\ExampleBlog\ExampleBlog\obj\Debug\netcoreapp2.0\ExampleBlog.csprojAssemblyReference.cache
